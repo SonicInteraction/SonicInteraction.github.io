@@ -21,5 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to the digital home of Peter Williams, a versatile researcher and creative force in the realm of music related human computer interaction. With a diverse portfolio spanning digitally prepared musical instruments, haptics for the hearing impaired, and jazz music, Peter seeks to bridge the gap between the world of academic sonic computing and traditional music perfomeance.
 
-** About Peter: **
+## About Peter:
 Peter Williams is not only a researcher but a multidimensional creative mind. From pushing the boundaries of academic knowledge to shaping the soundscape of jazz, his work reflects a passion for exploration and innovation.
